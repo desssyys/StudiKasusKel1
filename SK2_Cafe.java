@@ -7,5 +7,7 @@ public class SK2_Cafe {
         System.out.println("aamiin");
         System.out.println("hehehe");
         System.out.println("haha");
+        System.out.println("tugas cafe kel 1");
+
     }
 }
