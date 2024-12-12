@@ -10,7 +10,7 @@ public class SK2_Cafe {
         System.out.println("tugas cafe kel 1");
         System.out.println("wjwjwjwwjjwj");
         System.out.println("desycoba");
-        System.out.println("aku iqo");
+        System.out.println("aku iqoqkqk");
 
     }
 }
